@@ -4,11 +4,12 @@ Congrats! With this repository you are one step closer to making a discord bot w
 Getting started:
 - Make sure you have created a bot user at https://discord.com/developers and that know know its token.
 - Make sure you have Node.js installed on your computer.
-- Download the folder provided and move it to a location you can find it easily.
+- Create a new folder called Discord Bot and put it somewhere you can find it easily.
+- Download the file "index.js" and put it inside the folder.
 
 To install discord.js:
 - Open up a terminal.
-- Navigate to your bot's folder(the folder provided).
+- Navigate to your bot's folder(the folder you created).
 - If you have Node.js installed, type in "npm init"
 - Follow the steps
 - If you want to skip a step because what's already provided is correct, just press enter.
