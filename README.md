@@ -1,5 +1,5 @@
 # Instructions
-Congrats! With this repository you are one step closer to making a discord bot! But there are still some things you need to know.
+Congrats! With this repository you are one step closer to making a discord bot with discord.js! But there are still some things you need to know.
 
 - Make sure you have created a bot user at https://discord.com/developers and that know know its token.
 - Make sure you have Node.js installed on your computer.
