@@ -1,3 +1,4 @@
+![Discord.js Logo](https://cdn.discordapp.com/emojis/744691792095608872.png?v=1)
 # Instructions
 Congrats! With this repository you are one step closer to making a discord bot with discord.js! But there are still some things you need to know.
 
