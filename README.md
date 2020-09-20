@@ -28,4 +28,4 @@ To run the bot:
 Additional Steps:
 - What has already been coded will make the bot respond with "pong" when you say !ping.
 - If you already know basic javascript you can figure out how to change the prefix, change what the bot does when you put the command, etc.
-- Additional help and guides can be found at https://discordjs.guide and https://discord.js.org/#/docs/main/stable/general/welcome
+- Additional help and guides can be found at [https://discordjs.guide](https://discordjs.guide) and [https://discord.js.org/#/docs](https://discord.js.org/#/docs)
